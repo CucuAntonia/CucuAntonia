@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**CucuAntonia/CucuAntonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Cucu Ioana-Antonia and I am a 4th year Computer Engineering student at the University of Transylvania from Brasov.
+I am passionate about coding and exploring new technologies, with hands-on experience in C++, Java, JavaScript, Angular, Python, Image Processing. Actively seeking opportunities to grow and eager to collaborate with like-minded individuals and gain real-world experience in software development.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+ 🔭 I’m currently working on my diploma thesis, a python similarity code checker.
+ 🌱 I’m currently learning AI & I am enrolled in a Web Development course. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Favorites subjects:
+ 👩‍💻 Security
+ 🤖 Artificial Intelligence
+ 🌐 Web Development
+ ♾️ DevOps
+
+ Hobbies:
+  🎥 Watching TV Shows & Movies
+  🌏 Travelling
+  🚶‍♀️ Taking long walks
+ 
+
